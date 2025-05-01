@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Suporn Panmaeng
+<h1 align="center">👋 Hi, I'm Suporn Panmaeng</h1>
 
-**Frontend Developer****Backend Developer****Full Stack Developer** | Udonthani, Thailand  
-✉️ suporn.p@kkumail.com  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1B9FFF&center=true&repeat=false&width=800&lines=Frontend+Developer+%7C+Backend+Developer+%7C+Full+Stack+Developer" />
+</p>
 
 ---
 
