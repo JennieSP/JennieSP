@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suporn Panmaeng
 
-**Full Stack Developer** | Udonthani, Thailand  
+**Frontend Developer****Backend Developer****Full Stack Developer** | Udonthani, Thailand  
 ✉️ suporn.p@kkumail.com  
 
 ---
