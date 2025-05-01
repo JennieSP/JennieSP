@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suporn Panmaeng
 
 **Full Stack Developer** | Udonthani, Thailand  
-📱 061-221-8243 | ✉️ suporn.p@kkumail.com  
+✉️ suporn.p@kkumail.com  
 
 ---
 
@@ -30,7 +30,7 @@ I love adapting quickly to new technologies and solving complex problems through
 
 ## 💻 Featured Projects
 
-### 📍 [Dental360 : Indoor Navigation Web App](#)
+### 📍 [Dental360 : Indoor Navigation Web App]
 Web application designed to help users navigate within the **Faculty of Dentistry, Khon Kaen University** using 360° interactive maps.  
 **Tech Stack**:
 - Backend: Node.js, SQL (phpMyAdmin)
@@ -38,7 +38,7 @@ Web application designed to help users navigate within the **Faculty of Dentistr
 - 360° Mapping: Matterport
 - Database Management: SQL for storing locations & descriptions
 
-### 🌏 [Travel Blog Web Application](#)
+### 🌏 [Travel Blog Web Application]
 Travel web platform to recommend and review tourist destinations.  
 **Core Features**:
 - CRUD operations for tourist spots
@@ -57,8 +57,4 @@ Travel web platform to recommend and review tourist destinations.
 - **Tools & IDEs**: Android Studio, VS Code, Git/GitHub, Figma, Adobe XD, Draw.io
 
 ---
-
-## 📫 Let's Connect!
-
-Feel free to reach out for collaboration or if you'd like to know more about my projects!
 
