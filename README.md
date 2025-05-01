@@ -30,7 +30,7 @@ I love adapting quickly to new technologies and solving complex problems through
 
 ## 💻 Featured Projects
 
-### 📍 [Dental360 : Indoor Navigation Web App](#https://www.dental360.site/)
+### 📍 [Dental360 : Indoor Navigation Web App](https://www.dental360.site/)
 Web application designed to help users navigate within the **Faculty of Dentistry, Khon Kaen University** using 360° interactive maps.  
 **Tech Stack**:
 - Backend: Node.js, SQL (phpMyAdmin)
